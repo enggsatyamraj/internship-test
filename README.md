@@ -1,6 +1,6 @@
 # Project Setup
 
-This repository contains the code for [Project Name]. Follow the steps below to set up and run the project locally.
+This repository contains the code for Interview Test. Follow the steps below to set up and run the project locally.
 
 ## Getting Started
 
