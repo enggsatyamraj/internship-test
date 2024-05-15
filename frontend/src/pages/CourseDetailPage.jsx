@@ -88,7 +88,7 @@ const CourseDetailPage = () => {
                 <p>{syllabus.topic}</p>
               </div>
             ))}
-            <div className="mt-4">
+            {/* <div className="mt-4">
               {!isInLocalStorage ? (
                 <button
                   className="px-4 py-2 bg-green-500 text-white rounded-md mr-2"
@@ -104,7 +104,7 @@ const CourseDetailPage = () => {
                   Remove the subscription
                 </button>
               )}
-            </div>
+            </div> */}
           </div>
         )}
       </div>
